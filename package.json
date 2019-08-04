@@ -16,8 +16,8 @@
   "dependencies": {
     "colors": "0.6.2",
     "commander": "1.2.0",
-    "glob": "3.2.6",
-    "jade": "~1.9.2"
+    "glob": "7.1.4",
+    "jade": "^1.11.0"
   },
   "devDependencies": {
     "coffee-script": "1.6.3"
